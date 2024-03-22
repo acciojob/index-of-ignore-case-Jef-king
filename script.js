@@ -1,4 +1,4 @@
-function indexOfIgnoreCase(s1, s2) {}
+function indexOfIgnoreCase(s1, s2) {
   // write your code here
 	let x=s1.toLowerCase();
 let y=s2.toLowerCase();
