@@ -1,5 +1,7 @@
-function indexOfIgnoreCase(s1, s2) {
+function indexOfIgnoreCase(s1, s2) {}
   // write your code here
+return s1.indexOf(s2);
+
 }
 
 // Please do not change the code below
